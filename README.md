@@ -11,6 +11,7 @@ Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.sap
 
 ## 📫 Sky is my limit
 I'm quite nomaden person who ever stays in many cities and countries so being flexible and adaptive wherever I'm staying.
+<br/>
 :indonesia::malaysia::singapore::cambodia::thailand::taiwan:
 
 
