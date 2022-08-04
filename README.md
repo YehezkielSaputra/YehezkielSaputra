@@ -6,7 +6,7 @@ I am a full-stack programmer and most of my experience is in web applications, m
 I always following and keen to learn new tech for sure.
 Currently working as Senior Fullstack Programmer for Singapore Company.
 <br/><br/>
-Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.saputra@hotmail.com, yehezkiel.liem@gmail.com)
+Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.liem@gmail.com)
 
 
 ## 📫 Sky is my limit
