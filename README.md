@@ -10,7 +10,7 @@ Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.sap
 
 
 ## 📫 I'm quite nomaden person who ever stays in many cities and countries so being flexible and adaptive wherever I'm staying.
-:indonesia::hongkong::malaysia::singapore::cambodia::thailand::vietnam::southkorea::japan::china::taiwan:
+:indonesia::malaysia::singapore::cambodia::thailand::korea::japan::china::taiwan:
 
 
 ## 🛠️ Tech Stack Experience
