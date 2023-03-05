@@ -12,7 +12,7 @@ Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.lie
 ## 📫 Sky is my limit
 I'm quite nomaden person who ever stays in many cities and countries so being flexible and adaptive wherever I'm staying.
 <br/>
-:indonesia:
+https://www.flaticon.com/free-icon/singapore_197496?term=singapore+flag&page=1&position=1&origin=search&related_id=197496
 
 
 ## 🛠️ Tech Stack Experience
