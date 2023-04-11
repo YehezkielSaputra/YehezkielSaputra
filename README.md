@@ -8,6 +8,7 @@ Currently working as Senior Fullstack Programmer for Singapore Company.
 <br/>
 我的名字是林福汉。
 我是一名全栈程序员，我的大部分经验是在网站应用程序、移动应用程序以及之前的桌面应用程序方面。
+<br/>
 我总是关心并热衷于学习新技术。目前在一家新加坡公司担任高级全栈程序员。
 <br/><br/>
 Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.liem@gmail.com)
