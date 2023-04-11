@@ -5,14 +5,17 @@ My name is Yehezkiel Hardy Saputra.
 I am a full-stack programmer and most of my experience is in web applications, mobile applications and previously experienced in desktop application as well.
 I always following and keen to learn new tech for sure.
 Currently working as Senior Fullstack Programmer for Singapore Company.
+<br/>
+我的名字是林福汉。
+我是一名全栈程序员，我的大部分经验是在 Web 应用程序、移动应用程序方面，之前也有桌面应用程序方面的经验。我总是关注并热衷于学习新技术。目前在新加坡公司担任高级全栈程序员。
 <br/><br/>
 Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.liem@gmail.com)
-
 
 ## 📫 Sky is my limit
 I'm quite nomaden person who ever stays in many cities and countries so being flexible and adaptive wherever I'm staying.
 <br/>
-<br/>
+我是一个非常游牧的人，曾在许多城市和国家逗留过，所以无论我住在哪里，我都非常灵活和适应。
+<br/><br/>
 <img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197581.png"> 
 <img height="30" src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png"> 
 <img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197496.png"> 
