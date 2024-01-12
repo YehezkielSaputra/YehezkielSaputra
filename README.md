@@ -8,16 +8,18 @@ Currently serving as a Senior Fullstack Programmer for a reputable Singapore-bas
 
 Known for his commitment to excellence and a proactive approach to problem-solving, I consistently deliver high-quality solutions and leverage his technical acumen to contribute effectively to project success. My professional journey reflects a passion for innovation and a continuous pursuit of knowledge in the dynamic landscape of technology.
 <br/>
+<br/>
 我是一位经验丰富的全栈程序员，拥有在开发Web应用程序和移动应用程序方面的全面背景，以及在桌面应用程序方面的先前经验。致力于紧跟最新技术进展，我是一位热心学习者，致力于拓展自己的技能组合。
-
+<br/>
 目前在一家知名的新加坡公司担任高级全栈程序员，我为该领域带来了丰富的专业知识。我的熟练程度涵盖了编程领域内的各个领域，展示了一个跨足整个软件开发生命周期的多才多艺的技能组合。
-
+<br/>
 以追求卓越的承诺和解决问题的积极态度而闻名，我始终提供高质量的解决方案，并利用我的技术才能有效地为项目成功做出贡献。我的职业之旅反映了对创新的激情，以及在技术不断变化的领域中对知识的持续追求。
 <br/>
+<br/>
 저는 경험豊富한 풀 스택 프로그래머로, 웹 응용 프로그램 및 모바일 응용 프로그램을 개발하는 데 폭넓은 배경과 데스크톱 응용 프로그램에 대한 이전 경험이 있습니다. 최신 기술 발전을 항상 따라가기 위해 헌신하는 나는 열정적인 학습자로서 기술 스킬을 확장하기 위해 노력하고 있습니다.
-
+<br/>
 현재 명성 높은 싱가포르 기업에서 선임 풀 스택 프로그래머로 근무하며, 나는 이 분야에 풍부한 전문 지식을 제공하고 있습니다. 나의 숙련된 능력은 프로그래밍 분야의 다양한 영역을 아우르며 소프트웨어 개발 수명주기 전체에 걸친 다재다능한 기술 세트를 보여줍니다.
-
+<br/>
 우수함을 위한 헌신과 문제 해결에 대한 적극적인 접근으로 유명한 나는 일관되게 고품질의 솔루션을 제공하며 기술적인 통찰력을 활용하여 프로젝트 성공에 효과적으로 기여합니다. 나의 전문적인 여정은 기술의 동적인 풍경에서 혁신에 대한 열정과 지식의 지속적인 추구를 반영하고 있습니다.
 <br/><br/>
 Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.liem@gmail.com)
@@ -25,7 +27,9 @@ Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.lie
 ## 📫 Sky is my limit
 I am a seasoned nomadic individual with a history of residing in numerous cities and countries, fostering adaptability and flexibility in any environment I find myself in.
 <br/>
+<br/>
 我是一位经验丰富的游牧个体，曾在许多城市和国家居住过，培养了在任何环境中都能适应和灵活应对的能力。
+<br/>
 <br/>
 나는 다양한 도시와 국가에서 거주한 경험이 풍부한 유목적인 개인으로, 내가 있는 어떤 환경에서도 적응력과 유연성을 기를 수 있습니다.
 <br/><br/>
