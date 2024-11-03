@@ -22,7 +22,7 @@ Known for my commitment to excellence and a proactive approach to problem-solvin
 <br/>
 저는 탁월한 약속과 문제 해결에 대한 적극적인 접근으로 유명하며, 항상 고품질의 솔루션을 제공하고 기술적인 통찰력을 활용하여 프로젝트 성공에 효과적으로 기여합니다. 나의 전문적인 여정은 기술의 동적인 풍경에서 혁신에 대한 열정과 지식의 지속적인 추구를 반영하고 있습니다.
 <br/><br/>
-Contact me at my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.liem@gmail.com)
+Contact me thro my email at [`yehezkiel.saputra@hotmail.com`](mailto:yehezkiel.liem@gmail.com)
 
 ## 📫 Sky is my limit
 I am a seasoned nomadic individual with a history of residing in numerous cities and countries, fostering adaptability and flexibility in any environment I find myself in.
