@@ -51,7 +51,6 @@ I am a seasoned nomadic individual with a history of residing in numerous cities
 ReactJS | Javascript | NodeJS | CSS | Angular | ASP.Net | Flutter | Java | ERP | Typescript | SQL
 
 
-You may check my personal website and projects at https://yehezkiel.glitch.me/
 
 Have a good day 😄 
 <br/>
