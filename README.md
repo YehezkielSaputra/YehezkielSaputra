@@ -2,11 +2,11 @@
 
 My name is Yehezkiel Hardy Saputra.
 <br/>
-I am a seasoned full-stack programmer with a comprehensive background in developing web applications, and mobile applications, and prior experience in desktop applications. With a commitment to staying abreast of the latest technological advancements, I am an enthusiastic learner dedicated to expanding my skill set.
+Yehezkiel Hardy Saputra earned his Master’s Degree in Management from Telkom University, graduating Summa Cum Laude with a GPA of
+3.96/4.00. His thesis focused on mobile banking performance and user satisfaction, employing a hybrid analytical model that integrated WEBQUAL
+4.0 and the Customer Satisfaction Index (CSI). His research has been successfully published in a Scopus-indexed journal, and he is currently preparing to pursue doctoral-level research in the areas of digital finance and user experience optimization within emerging economies. 
 
-Currently serving as a Senior Fullstack Programmer for a reputable Singapore-based company, I bring a wealth of expertise to the field. My proficiency extends across various domains within the realm of programming, showcasing a versatile skill set that spans the entire software development lifecycle.
-
-Known for my commitment to excellence and a proactive approach to problem-solving, I consistently deliver high-quality solutions and leverage my technical acumen to contribute effectively to project success. My professional journey reflects a passion for innovation and a continuous pursuit of knowledge in the dynamic landscape of technology.
+In addition to his academic credentials, Yehezkiel has more than 10 years of professional experience in the IT industry, including 8 years as a Full Stack Developer. He has worked in Indonesia, Malaysia, and Singapore with multinational companies, contributing to complex and large-scale enterprise systems. Concurrently, he has served as a DevOps Engineer, further enhancing his technical breadth. As a Senior Software Engineer, he has successfully led more than four major projects in Singapore, demonstrating strong leadership, system architecture, and cross-functional collaboration capabilities in high-impact environments.
 <br/>
 <br/>
 我是一位经验丰富的全栈程序员，拥有在开发Web应用程序和移动应用程序方面的全面背景，以及在桌面应用程序方面的先前经验。致力于紧跟最新技术进展，我是一位热心学习者，致力于拓展自己的技能组合。
