@@ -1,6 +1,6 @@
 # ✨ [Fullstack Programmer](https://hardysaputra.herokuapp.com/) ✨ 
 
-My name is Yehezkiel Hardy Saputra.
+
 <br/>
 Yehezkiel Hardy Saputra earned his Master’s Degree in Management from Telkom University, graduating Summa Cum Laude with a GPA of
 3.96/4.00. His thesis focused on mobile banking performance and user satisfaction, employing a hybrid analytical model that integrated WEBQUAL
