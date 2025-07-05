@@ -8,11 +8,11 @@ Yehezkiel Hardy Saputra earned his Master’s Degree with research focus in Fina
 In addition to his academic credentials, Yehezkiel has more than 10 years of professional experience in the IT industry, including 8 years as a Full Stack Developer. He has worked in Indonesia, Malaysia, and Singapore with multinational companies, contributing to complex and large-scale enterprise systems. Concurrently, he has served as a DevOps Engineer, further enhancing his technical breadth. As a Senior Software Engineer, he has successfully led more than four major projects in Singapore, demonstrating strong leadership, system architecture, and cross-functional collaboration capabilities in high-impact environments.
 <br/>
 <br/>
-我是一位经验丰富的全栈程序员，拥有在开发Web应用程序和移动应用程序方面的全面背景，以及在桌面应用程序方面的先前经验。致力于紧跟最新技术进展，我是一位热心学习者，致力于拓展自己的技能组合。
+林福汉获得了特尔科姆大学（Telkom University）的金融科技硕士学位，以3.96/4.00的成绩荣获最优等毕业（Summa Cum Laude）。他的论文聚焦于移动银行的性能与用户满意度，采用了结合WEBQUAL 4.0与顾客满意度指数（CSI）的混合分析模型。该研究成果已成功发表在Scopus索引的国际期刊上。目前，他正准备攻读博士学位，研究方向为新兴经济体中的数字金融与用户体验优化，尤其是围绕“人工智能在降低金融机构运营成本中的作用：一项战略性与对比性研究”。
 <br/>
-目前在一家声誉卓著的新加坡公司担任高级全栈程序员，我为该领域带来了丰富的专业知识。我的熟练程度涵盖了编程领域内的各个领域，展示了一个跨足整个软件开发生命周期的多才多艺的技能组合。
+结合他多年的工作经验，他发现金融机构正日益投资于人工智能（AI）以实现流程自动化、优化决策能力，并提升客户服务水平。然而，AI在不同运营领域（如客户服务、合规管理、信用评分与IT运维）所带来的实际成本节约效果仍未被充分探讨，尤其是在新兴经济体中。许多机构在没有明确衡量投资回报率（ROI）或运营效率的前提下实施AI，导致效果不明朗。目前在量化及比较AI对银行与金融科技公司成本降低影响的研究方面，尤其是在监管、基础设施与数字成熟度不同的背景下，仍存在明显研究空缺。
 <br/>
-以卓越的承诺和积极解决问题的方法而闻名，我始终提供高质量的解决方案，并利用我的技术敏锐度有效地为项目的成功做出贡献。我的职业旅程反映了对创新的热情，以及在科技的不断变化的领域中对知识的持续追求。
+除了学术背景之外，林福汉在IT行业拥有超过10年的专业经验，其中8年担任全端开发工程师（Full Stack Developer）。他曾在印度尼西亚、马来西亚和新加坡的多家跨国公司工作，参与多个复杂的大型企业系统项目。同时，他也担任DevOps工程师，进一步拓展了其技术能力。作为高级软件工程师，他曾在新加坡成功领导了超过四个重大项目，展现了他在高影响力环境中的领导力、系统架构设计及跨职能协作能力。
 <br/>
 <br/>
 저는 경험豊富한 풀 스택 프로그래머로, 웹 응용 프로그램 및 모바일 응용 프로그램을 개발하는 데 폭넓은 배경과 데스크톱 응용 프로그램에 대한 이전 경험이 있습니다. 최신 기술 발전을 항상 따라가기 위해 헌신하는 나는 열정적인 학습자로서 기술 스킬을 확장하기 위해 노력하고 있습니다.
