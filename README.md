@@ -32,7 +32,7 @@ I am a seasoned nomadic individual with a history of residing in numerous cities
 <br/>
 나는 다양한 도시와 국가에서 거주한 경험이 풍부한 유목적인 개인으로, 내가 있는 어떤 환경에서도 적응력과 유연성을 기를 수 있습니다.
 <br/><br/>
-<img height="20" src="https://cdn-icons-png.flaticon.com/512/197/197581.png"> 
+<img height="30px" src="https://cdn-icons-png.flaticon.com/512/197/197581.png"> 
 <img height="30" src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png"> 
 <img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197496.png"> 
 <img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197452.png"> 
