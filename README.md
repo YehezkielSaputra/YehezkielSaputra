@@ -1,11 +1,9 @@
 # ✨ [Fullstack Programmer](https://hardysaputra.herokuapp.com/) ✨ 
 
-
-<br/>
 Yehezkiel Hardy Saputra earned his Master’s Degree in Management from Telkom University, graduating Summa Cum Laude with a GPA of
 3.96/4.00. His thesis focused on mobile banking performance and user satisfaction, employing a hybrid analytical model that integrated WEBQUAL
 4.0 and the Customer Satisfaction Index (CSI). His research has been successfully published in a Scopus-indexed journal, and he is currently preparing to pursue doctoral-level research in the areas of digital finance and user experience optimization within emerging economies. 
-
+<br/>
 In addition to his academic credentials, Yehezkiel has more than 10 years of professional experience in the IT industry, including 8 years as a Full Stack Developer. He has worked in Indonesia, Malaysia, and Singapore with multinational companies, contributing to complex and large-scale enterprise systems. Concurrently, he has served as a DevOps Engineer, further enhancing his technical breadth. As a Senior Software Engineer, he has successfully led more than four major projects in Singapore, demonstrating strong leadership, system architecture, and cross-functional collaboration capabilities in high-impact environments.
 <br/>
 <br/>
