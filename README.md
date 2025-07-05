@@ -1,6 +1,6 @@
 # ✨ [Fullstack Programmer](https://hardysaputra.herokuapp.com/) ✨ 
 
-Yehezkiel Hardy Saputra earned his Master’s Degree in Management from Telkom University, graduating Summa Cum Laude with a GPA of
+Yehezkiel Hardy Saputra earned his Master’s Degree with research focus in Financial Technology from Telkom University, graduating Summa Cum Laude with a GPA of
 3.96/4.00. His thesis focused on mobile banking performance and user satisfaction, employing a hybrid analytical model that integrated WEBQUAL
 4.0 and the Customer Satisfaction Index (CSI). His research has been successfully published in a Scopus-indexed journal, and he is currently preparing to pursue doctoral-level research in the areas of digital finance and user experience optimization within emerging economies. 
 <br/>
