@@ -33,16 +33,16 @@ I am a seasoned nomadic individual with a history of residing in numerous cities
 나는 다양한 도시와 국가에서 거주한 경험이 풍부한 유목적인 개인으로, 내가 있는 어떤 환경에서도 적응력과 유연성을 기를 수 있습니다.
 <br/><br/>
 <img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/197/197581.png" alt="Flag 1" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" alt="Icon 2" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197496.png" alt="Flag 3" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197452.png" alt="Flag 4" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197473.png" alt="Flag 5" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197505.png" alt="Flag 6" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" alt="Icon 7" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197375.png" alt="Flag 8" />
-<img height="30" src="https://as2.ftcdn.net/v2/jpg/01/79/73/87/1000_F_179738789_3AAX2vMqagraF6AYv3lZVEHPTxNxMsyF.jpg" alt="Flag 9" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/8362/8362889.png" alt="Icon 10" />
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/197/197604.png" alt="Flag 11" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/6157/6157721.png" alt="Icon 2" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/197/197496.png" alt="Flag 3" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/197/197452.png" alt="Flag 4" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/197/197473.png" alt="Flag 5" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/197/197505.png" alt="Flag 6" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" alt="Icon 7" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/197/197375.png" alt="Flag 8" />
+<img style="height:30px; width:auto;" src="https://as2.ftcdn.net/v2/jpg/01/79/73/87/1000_F_179738789_3AAX2vMqagraF6AYv3lZVEHPTxNxMsyF.jpg" alt="Flag 9" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/8362/8362889.png" alt="Icon 10" />
+<img style="height:30px; width:auto;" src="https://cdn-icons-png.flaticon.com/512/197/197604.png" alt="Flag 11" />
 
 ## 🛠️ Tech Stack Experience
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> | <img height="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> | <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"> | <img height="30" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"> | <img height="30" src="https://play-lh.googleusercontent.com/6AB25hhGfx2C74wz4v_XYaUSdXualWh-hPmZypzUi9a4y2K4wqZaxPzd_c_7lrLatTGj"> | <img height="30" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png"> | <img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"> | <img height="30" src="https://cdn-icons-png.flaticon.com/512/5038/5038539.png"> | <img height="30" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png"> | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo">
