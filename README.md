@@ -47,7 +47,7 @@ I am a seasoned nomadic individual with a history of residing in numerous cities
 ## 🛠️ Tech Stack Experience
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"> | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> | <img height="30" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png"> | <img height="30" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg"> | <img height="30" src="https://play-lh.googleusercontent.com/6AB25hhGfx2C74wz4v_XYaUSdXualWh-hPmZypzUi9a4y2K4wqZaxPzd_c_7lrLatTGj"> | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/250px-Python.svg.png"> | <img height="30" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png"> | <img height="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"> | <img height="30" src="https://cdn-icons-png.flaticon.com/512/5038/5038539.png"> | <img height="30" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png"> | <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo"> | <img height="30" src="https://www.ortussolutions.com/__media/contentbox:2023/products/MongoDB/MongoDB.svg" alt="MongoDB Logo">
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-ReactJS | Javascript | NodeJS | Angular | ASP.Net | Python | Flutter | Java | ERP | Typescript | SQL | MongoDB
+ReactJS | Javascript | NodeJS | Angular | C# | Python | Flutter | Java | ERP | Typescript | SQL | MongoDB
 
 
 
